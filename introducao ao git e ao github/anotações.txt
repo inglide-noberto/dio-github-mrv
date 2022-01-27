@@ -1,1 +1,7 @@
-teste do processo
+comandos do GIT - simples
+ *git status - ver se tem algo a ser comitado
+ *git add . - adiciona todas as modificações para commit
+ *git push origin main - manda todos os commits para o servidor
+ *git clone - copia os dados do servidor no local
+ *git tag - coloca a tag de processo / versão
+ *
